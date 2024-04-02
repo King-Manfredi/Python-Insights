@@ -25,8 +25,8 @@ As a Data Analyst, I should clean, organized and analyze the database from a CSV
 ### :white_check_mark:  Step 4: Analysis of cancellations;
 ### :white_check_mark:  Step 5: Analysis of the cause of cancellations.
 
-<img src="https://github.com/LucianaGDManfredi/imagens/blob/main/ligacoes_callcenter.png" alt="Grafico Calls" width="4400">
-<img src="https://github.com/LucianaGDManfredi/imagens/blob/main/pagamento_atraso.png" alt="Grafico Calls" width="4400">
+<img src="https://drive.google.com/file/d/1qKuyHl3DaP4ytJk0SeBPEoE4j_qJPbyT/view?usp=sharing" alt="Grafico Calls" width="4400">
+<img src="https://drive.google.com/file/d/1-zhaOKN__mw4PBSrUh38xnZfqlrYtDOl/view?usp=sharing" alt="Grafico Calls" width="4400">
 
 ## :bulb: Conclusiom
 
